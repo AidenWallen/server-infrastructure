@@ -1,0 +1,16 @@
+# Minecraft runtime
+minecraft/data/
+minecraft/logs/
+minecraft/backups/
+
+# AI model data
+ai/models/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# General runtime files
+**/logs/
+**/backups/
